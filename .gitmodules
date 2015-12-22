@@ -1,0 +1,3 @@
+[submodule "COR-Framework-Python"]
+	path = COR-Framework-Python
+	url = https://github.com/bahusvel/COR-Framework-Python
